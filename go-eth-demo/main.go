@@ -15,7 +15,7 @@ package main
 // import loadcontracts "github.com/local/go-eth-demo/loadContracts"
 // import executioncontracts "github.com/local/go-eth-demo/executionContracts"
 // import contractsevent "github.com/local/go-eth-demo/contractsEvent"
-import work "github.com/local/go-eth-demo/awork"
+import work "github.com/local/go-eth-demo/aWork"
 
 func main() {
 	// blockhead.Run()
